@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">stockRegistry</string>
+
+    <string name="insert_dummy_item_stock">Insert Dummy ItemStock</string>
+    <string name="insert_dummy_item_stock_attributes">Insert Dummy ItemStockAttributes</string>
+
+    <string name="item_stock">Item Stock</string>
+    <string name="item_stock_plural">Item Stocks</string>
+    <string name="item_stock_attributes">Item Stock Attributes</string>
+
+
+    <string name="count_data">Count data</string>
+
+    <string name="count">Count: </string>
+    <string name="empty_string" />
+    <string name="zero">0</string>
+    <string name="minus_one">-1</string>
+    <string name="clear_data">Clear ALL Data for Database</string>
+    <string name="showShowStockItems">Show StockItem Data</string>
+
+</resources>
